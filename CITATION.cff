@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or technical articles, please cite it as below."
+authors:
+  - family-names: "De Lima"
+    given-names: "Rafaela"
+    alias: "rafasecnerd"
+    affiliation: "Independent Audio Research & Cybersecurity"
+title: "Qearon: Autonomous Low-Level Audio Orchestrator and Diagnostic Engine for Linux"
+version: 0.1.0
+date-released: 2026-10-26
+url: "https://github.com/rafasecnerd/qearon"
+repository-code: "https://github.com/rafasecnerd/qearon"
+keywords:
+  - "linux-audio"
+  - "alsa"
+  - "pipewire"
+  - "zig-lang"
+  - "audio-diagnostics"
+  - "jack-sensing"
+  - "real-time-audio"
+license: "MIT"
+abstract: "Qearon is a high-performance, deterministic Linux audio diagnostic and repair system engineered in pure Zig. It bridges kernel-level ALSA register sensing with modern PipeWire node graphs to resolve hardware-level analog bleed, impedance mismatching, and jack sensing failures without third-party runtime dependencies."

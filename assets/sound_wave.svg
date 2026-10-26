@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 28" width="190" height="22" fill="none">
+  <style>
+    .wave-text {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 20px;
+      font-weight: 700;
+      letter-spacing: 2px;
+    }
+  </style>
+  <text x="50%" y="20" text-anchor="middle" class="wave-text"><tspan fill="#00e5ff">ı</tspan><tspan fill="#38bdf8">l</tspan><tspan fill="#3b82f6">l</tspan><tspan fill="#6366f1">ı</tspan><tspan fill="#a855f7">l</tspan><tspan fill="#ec4899">l</tspan><tspan fill="#ef4444">ı</tspan><tspan fill="#f87171">ı</tspan><tspan fill="#f59e0b">l</tspan><tspan fill="#eab308">l</tspan><tspan fill="#22c55e">ı</tspan><tspan fill="#4ade80">l</tspan><tspan fill="#00e5ff">l</tspan><tspan fill="#38bdf8">ı</tspan></text>
+</svg>

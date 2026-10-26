@@ -1,0 +1,11 @@
+.{
+    .name = .qearon,
+    .version = "0.1.0",
+    .fingerprint = 0xbcee90959e287f19,
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}

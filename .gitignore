@@ -1,0 +1,9 @@
+# Zig build artifacts
+.zig-cache/
+zig-out/
+qearon/.zig-cache/
+qearon/zig-out/
+
+# Temporary audio test files
+*.wav
+/tmp/*.wav
