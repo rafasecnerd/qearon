@@ -4,7 +4,7 @@
   <img src="assets/qearon-logo.png" width="220" alt="Qearon Logo">
 </a>
 
-# Qearon: Autonomous Low-Level Audio Orchestrator for Linux
+# Qearon: Low-Level Audio Orchestrator for Linux
 
 <pre align="center">
   ██████╗ ███████╗ █████╗ ██████╗  ██████╗ ███╗   ██╗
